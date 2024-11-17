@@ -25,10 +25,7 @@ SpamVis is an interactive tool that combines several machine learning and deep l
 1. Offline Analysis
 - Choose between preloaded hotel and restaurant datasets or upload your own dataset in .csv format.
 - Select the model to apply (e.g., BERT, RoBERTa, SVM).
-- View results through visual metrics, such as: 
-+ Spam vs. non-spam word length distribution.
-+ Sentiment distribution among spam and genuine reviews.
-+ Accuracy, precision, and recall for the selected models.
+- View results through visual metrics, such as: Spam vs. non-spam word length distribution; Sentiment distribution among spam and genuine reviews; Accuracy, precision, and recall for the selected models.
 
 2. Real-Time Analysis
 - Select a platform (e.g., Facebook, YouTube).
