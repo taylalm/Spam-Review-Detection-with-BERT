@@ -38,7 +38,7 @@ Datasets
 - YelpCHI Hotel Dataset: ~5,000 reviews.
 - Metadata includes product IDs, reviewer IDs, timestamps, and spam annotations.
 
-## Technologies Used
+## Models 
 1. Machine Learning Models:
 - Support Vector Machines (SVM)
 - Logistic Regression (LR)
