@@ -1,0 +1,15 @@
+altair
+matplotlib
+matplotlib-inline
+numpy
+pandas
+pipreqs
+pipwin
+plotly
+scikit-learn
+seaborn
+streamlit==1.35.0
+torch
+transformers
+nltk
+serpapi==0.1.5
