@@ -1,6 +1,6 @@
 # SpamVis - A Visual Interactive System for Spam Review Detection 
 
-SpamVis is an interactive tool that combines several machine learning and deep learning models with real-time data visualization to tackle the growing issue of spam reviews. SpamVis is designed to enable users to detect and analyze fake reviews across industries like e-commerce, food & beverage, hospitality, etc. 
+SpamVis is an interactive tool that combines several machine learning and deep learning models with real-time data visualization to tackle the growing issue of spam reviews. SpamVis is designed to enable users to detect and analyze fake reviews across industries like e-commerce, food & beverage, hospitality, etc. The live version of the dashboard can be found here: https://spamvis-hjie7rngi9gqnwfgzuv9hy.streamlit.app/
 
 ## Features
 
